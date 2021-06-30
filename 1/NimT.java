@@ -1,6 +1,6 @@
 /*
 Programming in a High Level Language
-In Class assignment - 6/26/21
+In Class assignment
 Game of Nim
 by
 other team
