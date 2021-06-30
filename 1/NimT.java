@@ -3,10 +3,7 @@ Programming in a High Level Language
 In Class assignment - 6/26/21
 Game of Nim
 by
-Liam Baum
-Eric Liu
-Jiyoon Kim
-Peter Tsun
+other team
 */
 
 
